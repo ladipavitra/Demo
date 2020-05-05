@@ -1,0 +1,14 @@
+#ML
+
+help()
+dir()
+comprehensions
+filter
+map
+reduce
+exception handling
+os
+files
+shutil module
+
+https://github.com/naveenjoshii/ML-DL-Online
